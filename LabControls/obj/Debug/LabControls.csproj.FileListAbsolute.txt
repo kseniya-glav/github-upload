@@ -1,0 +1,8 @@
+C:\Users\Админ\Desktop\studytime\4kurs\CompProg\WinFormsControlLab\LabControls\bin\Debug\LabControls.dll
+C:\Users\Админ\Desktop\studytime\4kurs\CompProg\WinFormsControlLab\LabControls\bin\Debug\LabControls.pdb
+C:\Users\Админ\Desktop\studytime\4kurs\CompProg\WinFormsControlLab\LabControls\obj\Debug\LabControls.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\studytime\4kurs\CompProg\WinFormsControlLab\LabControls\obj\Debug\LabControls.dll
+C:\Users\Админ\Desktop\studytime\4kurs\CompProg\WinFormsControlLab\LabControls\obj\Debug\LabControls.pdb
+C:\Users\Админ\Desktop\studytime\4kurs\CompProg\WinFormsControlLab\LabControls\obj\Debug\LabControls.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\studytime\4kurs\CompProg\WinFormsControlLab\LabControls\obj\Debug\LabControls.ColorControl.resources
+C:\Users\Админ\Desktop\studytime\4kurs\CompProg\WinFormsControlLab\LabControls\obj\Debug\LabControls.csproj.GenerateResource.cache
